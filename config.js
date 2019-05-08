@@ -6,7 +6,6 @@
  */
 const CONF = {
   port:6002,
-  //MQ配置
   mq:{
     host:'39.105.209.146',
     port:'5672',
