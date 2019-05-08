@@ -6,7 +6,6 @@
  */
 const CONF = {
   port:6002,
-  //数据库配置
   mq:{
     host:'39.105.209.146',
     port:'5672',
@@ -15,6 +14,7 @@ const CONF = {
     maxAge:1800000,
     redis_maxAge:1800
   },
+  //数据库配置
   mysql: {
     host: 'localhost',
     port: 3306,
